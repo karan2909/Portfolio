@@ -6,6 +6,7 @@
 * Achieved good recall on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle,using Logistic Regression.
 * Dataset Link - IBM HR Analytics Employee Attrition & Performance
 * Made a WEB API using Flask framework and deployed it on Heroku cloud platform.
+![](/images/Predicted_Score_Cluster_10.png)
 
 
 # [Project 2 : Crime Prediction in Altanta](https://github.com/karan2909/Churn_deployment_heroku)
@@ -14,5 +15,5 @@
 * Achieved good recall on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle,using Logistic Regression.
 * Dataset Link - IBM HR Analytics Employee Attrition & Performance
 * Made a WEB API using Flask framework and deployed it on Heroku cloud platform.
-![](https://github.com/karan2909/Portfolio/blob/main/images/Predicted_Score_Cluster_10.png)
-![](https://github.com/karan2909/Portfolio/blob/main/images/Risk_Score_Cluster_29.png)
+![](/images/Predicted_Score_Cluster_10.png)
+![](/images/Risk_Score_Cluster_29.png)
