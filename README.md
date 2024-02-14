@@ -14,3 +14,5 @@
 * Achieved good recall on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle,using Logistic Regression.
 * Dataset Link - IBM HR Analytics Employee Attrition & Performance
 * Made a WEB API using Flask framework and deployed it on Heroku cloud platform.
+![](https://github.com/karan2909/Portfolio/blob/main/images/Predicted_Score_Cluster_10.png)
+![](https://github.com/karan2909/Portfolio/blob/main/images/Predicted_Score_Cluster_20.png)
