@@ -15,4 +15,4 @@
 * Dataset Link - IBM HR Analytics Employee Attrition & Performance
 * Made a WEB API using Flask framework and deployed it on Heroku cloud platform.
 ![](https://github.com/karan2909/Portfolio/blob/main/images/Predicted_Score_Cluster_10.png)
-![](https://github.com/karan2909/Portfolio/blob/main/images/Predicted_Score_Cluster_20.png)
+![](https://github.com/karan2909/Portfolio/blob/main/images/Risk_Score_Cluster_29.png)
