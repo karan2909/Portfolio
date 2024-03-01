@@ -4,9 +4,10 @@
 I am a passionate data scientist with experience in machine learning, data analysis, and cloud deployment. I enjoy exploring data, deriving insights, and building predictive models to solve real-world problems.
 
 ## Experience
-- Data Scientist at XYZ Company (Year - Present)
-- Data Analyst Intern at ABC Company (Year)
-
+- Data Scientist at Airtel (Apr 2022 - July 2023)
+- Lead Analyst at Xiaomi (Aug 2021- Mar 2022)
+- Quantitative Analyst at Credit Suisse (Aug 2021- Mar 2022)
+  
 ## Projects
 
 ### [Project 1: Classification and Cloud Deployment](https://github.com/karan2909/Churn_deployment_heroku)
