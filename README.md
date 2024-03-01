@@ -1,19 +1,27 @@
-# Data Science portfolio
+# Data Science Portfolio
 
-# [Project 1 : Classification and Cloud Deployment](https://github.com/karan2909/Churn_deployment_heroku)
-* Attrition is the silent killer that can switly disable even the most successful and stable of the organizations in a shockingly spare amount of time.
-* In this project, I have developed a Machine Learning Model to predict the Employee Attrition by implementing various Machine Learning Algorithms. Conducted exploratory data analysis using various data visualization techniques.
-* Achieved good recall on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle,using Logistic Regression.
-* Dataset Link - IBM HR Analytics Employee Attrition & Performance
-* Made a WEB API using Flask framework and deployed it on Heroku cloud platform.
-![](/images/Predicted_Score_Cluster_10.png)
+## About Me
+I am a passionate data scientist with experience in machine learning, data analysis, and cloud deployment. I enjoy exploring data, deriving insights, and building predictive models to solve real-world problems.
 
+## Experience
+- Data Scientist at XYZ Company (Year - Present)
+- Data Analyst Intern at ABC Company (Year)
 
-# [Project 2 : Crime Prediction in Altanta](https://github.com/karan2909/Churn_deployment_heroku)
-* Attrition is the silent killer that can switly disable even the most successful and stable of the organizations in a shockingly spare amount of time.
-* In this project, I have developed a Machine Learning Model to predict the Employee Attrition by implementing various Machine Learning Algorithms. Conducted exploratory data analysis using various data visualization techniques.
-* Achieved good recall on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle,using Logistic Regression.
-* Dataset Link - IBM HR Analytics Employee Attrition & Performance
-* Made a WEB API using Flask framework and deployed it on Heroku cloud platform.
-![](/images/Predicted_Score_Cluster_10.png)
-![](/images/Risk_Score_Cluster_29.png)
+## Projects
+
+### [Project 1: Classification and Cloud Deployment](https://github.com/karan2909/Churn_deployment_heroku)
+- Developed a Machine Learning Model to predict Employee Attrition using various algorithms.
+- Conducted exploratory data analysis using data visualization techniques.
+- Achieved good recall on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle, using Logistic Regression.
+- Implemented a WEB API using the Flask framework and deployed it on the Heroku cloud platform.
+- Dataset Link: [IBM HR Analytics Employee Attrition & Performance](link_to_dataset)
+![Predicted Score Cluster](/images/Predicted_Score_Cluster_10.png)
+
+### [Project 2: Crime Prediction in Atlanta](https://github.com/karan2909/Churn_deployment_heroku)
+- Developed a Machine Learning Model to predict crime in Atlanta.
+- Conducted exploratory data analysis and utilized various data visualization techniques.
+- Achieved good results using Logistic Regression on the crime dataset.
+- Implemented a WEB API using the Flask framework and deployed it on the Heroku cloud platform.
+- Dataset Link: [Crime Dataset](link_to_dataset)
+![Predicted Score Cluster](/images/Predicted_Score_Cluster_10.png)
+![Risk Score Cluster](/images/Risk_Score_Cluster_29.png)
