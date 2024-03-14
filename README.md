@@ -29,6 +29,6 @@ I have expertise in solving business problems through data driven insights using
 - Visualization of results on an interactive map of Atlanta.
 
 - Dataset Link: [Crime Dataset](link_to_dataset)
-![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
+![Predicted Score Cluster](/images/Clustering_.png)
 ![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
 ![Risk Score Cluster](/images/vis4.jpeg)
