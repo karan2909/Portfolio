@@ -27,8 +27,8 @@ I have expertise in solving business problems through data driven insights using
 - Geographical clusters receive risk scores indicating crime severity, offering monthly and yearly risk profiles.
 - Time series modeling, specifically Exponential Smoothing, employed to forecast crime risk scores from 2019 to 2020 using data spanning 2009 to 2018.
 - Visualization of results on an interactive map of Atlanta.
-
 - Dataset Link: [Crime Dataset](link_to_dataset)
+
 ![Predicted Score Cluster](/images/Clustering_.png)
 ![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
 ![Risk Score Cluster](/images/vis4.jpeg)
