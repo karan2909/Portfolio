@@ -23,8 +23,12 @@ I have expertise in solving business problems through data driven insights using
 ### [Project 2: Crime Prediction in Atlanta](https://github.com/karan2909/Churn_deployment_heroku)
 - Developed a Machine Learning Model to predict crime in Atlanta.
 - Conducted exploratory data analysis and utilized various data visualization techniques.
-- Achieved good results using Logistic Regression on the crime dataset.
-- Implemented a WEB API using the Flask framework and deployed it on the Heroku cloud platform.
+- Crime clustering utilizing GMM algorithm with latitude and longitude data.
+- Geographical clusters receive risk scores indicating crime severity, offering monthly and yearly risk profiles.
+- Time series modeling, specifically Exponential Smoothing, employed to forecast crime risk scores from 2019 to 2020 using data spanning 2009 to 2018.
+- Visualization of results on an interactive map of Atlanta.
+
 - Dataset Link: [Crime Dataset](link_to_dataset)
+![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
 ![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
 ![Risk Score Cluster](/images/vis4.jpeg)
