@@ -26,5 +26,5 @@ I have expertise in solving business problems through data driven insights using
 - Achieved good results using Logistic Regression on the crime dataset.
 - Implemented a WEB API using the Flask framework and deployed it on the Heroku cloud platform.
 - Dataset Link: [Crime Dataset](link_to_dataset)
-![Predicted Score Cluster](/images/Predicted_Score_Cluster_10.png)
+![Predicted Score Cluster](/images/cluster10_preds_new[1].png.png)
 ![Risk Score Cluster](/images/Risk_Score_Cluster_29.png)
