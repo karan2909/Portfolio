@@ -27,26 +27,21 @@ I have expertise in solving business problems through data driven insights using
 - Geographical clusters receive risk scores indicating crime severity, offering monthly and yearly risk profiles.
 - Time series modeling, specifically Exponential Smoothing, employed to forecast crime risk scores from 2019 to 2020 using data spanning 2009 to 2018.
 - Visualization of results on an interactive map of Atlanta.
-- Dataset Link: [Crime Dataset](link_to_dataset)
 
 ![Predicted Score Cluster](/images/Clustering_.png)
 ![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
 ![Risk Score Cluster](/images/vis4.jpeg)
 
-### [Project 3: Causal Inference](https://github.com/karan2909/Churn_deployment_heroku)
-- Developed a Machine Learning Model to predict crime in Atlanta.
-- Conducted exploratory data analysis and utilized various data visualization techniques.
-- Crime clustering utilizing GMM algorithm with latitude and longitude data.
-- Geographical clusters receive risk scores indicating crime severity, offering monthly and yearly risk profiles.
-- Time series modeling, specifically Exponential Smoothing, employed to forecast crime risk scores from 2019 to 2020 using data spanning 2009 to 2018.
-- Visualization of results on an interactive map of Atlanta.
-- Dataset Link: [Crime Dataset](link_to_dataset)
+### [Project 3: Causal Inference](https://github.com/karan2909/Causal_Inference)
+- Causal inference techniques, specifically the CausalImpact model, are applied to the preprocessed data to estimate the causal effect of the promotion on sales. This involves comparing the observed sales data during the promotion period with counterfactual sales data derived from similar stores without promotions.
 
-![Predicted Score Cluster](/images/Clustering_.png)
-![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
-![Risk Score Cluster](/images/vis4.jpeg)
+- The results of the causal inference analysis are evaluated to determine the significance and magnitude of the causal effect. Statistical metrics and visualizations are utilized to interpret the findings and draw actionable insights.
 
-### [Project 4: A/B Testing](https://github.com/karan2909/Churn_deployment_heroku)
+![Example Image](https://github.com/karan2909/Causal_Inference/blob/main/Result1.png)
+![Example Image](https://github.com/karan2909/Causal_Inference/blob/main/Result2.png)
+
+
+### [Project 4: A/B Testing]()
 - Developed a Machine Learning Model to predict crime in Atlanta.
 - Conducted exploratory data analysis and utilized various data visualization techniques.
 - Crime clustering utilizing GMM algorithm with latitude and longitude data.
