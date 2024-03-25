@@ -4,6 +4,9 @@
 I am a passionate data scientist with experience in machine learning, data analysis, and cloud deployment. I enjoy exploring data, deriving insights, and building predictive models to solve real-world problems.
 I have expertise in solving business problems through data driven insights using tools like Python, SQL, Pyspark, R, Hive, Hadoop, along with visualisation tools like Tableau. Currently, I am pursuing MS in Computational Data Science at Georgia Tech. Before coming to Georgia Tech, I have 6 years of experience working in analytics and data science field. I have worked with Credit Suisse(Counterparty Credit Risk) and Airtel (Credit Risk). I have graudated from IIT Guwahati with a degree in Chemical Engineering.
 
+## Education
+- MS Data Science | Georgia Tech (GPA: 4/4)
+- B.Tech. Chemical Engineering | IIT Guwahati
 
 ## Experience
 Data Scientist at Airtel (Apr 2022 - July 2023)
@@ -12,8 +15,10 @@ Data Scientist at Airtel (Apr 2022 - July 2023)
 Lead Analyst at Xiaomi (Aug 2021- Mar 2022)
 -
 -
-Quantitative Analyst at Credit Suisse (Aug 2021- Mar 2022)
+Quantitative Analyst at Credit Suisse (Jan 2019- Aug 2021)
 -
+
+Market Analyst Futures Trader (Jul 2017- Dec 2018)
 -
   
 ## Projects
