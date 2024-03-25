@@ -34,23 +34,19 @@ I have expertise in solving business problems through data driven insights using
 
 ### [Project 3: Causal Inference](https://github.com/karan2909/Causal_Inference)
 - Causal inference techniques, specifically the CausalImpact model, are applied to the preprocessed data to estimate the causal effect of the promotion on sales. This involves comparing the observed sales data during the promotion period with counterfactual sales data derived from similar stores without promotions.
-
 - The results of the causal inference analysis are evaluated to determine the significance and magnitude of the causal effect. Statistical metrics and visualizations are utilized to interpret the findings and draw actionable insights.
 
-![Example Image](https://github.com/karan2909/Causal_Inference/blob/main/Result1.png)
-![Example Image](https://github.com/karan2909/Causal_Inference/blob/main/Result2.png)
+![Example Image](/images/Result1.png)
+![Example Image](/images/Result2.png)
 
 
-### [Project 4: A/B Testing]()
-- Developed a Machine Learning Model to predict crime in Atlanta.
-- Conducted exploratory data analysis and utilized various data visualization techniques.
-- Crime clustering utilizing GMM algorithm with latitude and longitude data.
-- Geographical clusters receive risk scores indicating crime severity, offering monthly and yearly risk profiles.
-- Time series modeling, specifically Exponential Smoothing, employed to forecast crime risk scores from 2019 to 2020 using data spanning 2009 to 2018.
-- Visualization of results on an interactive map of Atlanta.
-- Dataset Link: [Crime Dataset](link_to_dataset)
+### [Project 4: A/B Testing](https://github.com/karan2909/A-B-Testing)
+- To access impact of UI change on CTR.
+![Image Description](/images/A_B Testing.png)
+![Image Description](/images/Sample_size.png)
 
-![Predicted Score Cluster](/images/Clustering_.png)
-![Predicted Score Cluster](/images/cluster10_preds_new[1].png)
-![Risk Score Cluster](/images/vis4.jpeg)
+### [Project 5: Customer Acquistion](https://github.com/karan2909/Customer_Acquistion)
+- Classification project to determine which customers should be targeted.
 
+### [Project 6: Time Series](https://github.com/karan2909/Time_Series)
+- Failure Prediction using Time Series
