@@ -10,16 +10,27 @@ I have expertise in solving business problems through data driven insights using
 
 ## Experience
 Data Scientist at Airtel (Apr 2022 - July 2023)
--
--
+- Implemented predictive scorecard model with decision tree algorithm to enhance collections processes, resulting in a 15% efficiency improvement.
+- Spearheaded fraud identification mechanism integration, reducing fraud rates by 30% and safeguarding the platform.
+- Led A/B testing initiatives for optimizing lead allocation, achieving a 20% increase in average ticket size.
+- Utilized advanced statistical techniques to target high-value customer segments, leading to a 20% increase in disbursals.
+- Developed dynamic Tableau dashboards for real-time tracking of credit risk and fraud indicators.
+- Recognized with STAR employee award for outstanding performance, reflecting top 4% status among Airtel Financial Services employees.
+
 Lead Analyst at Xiaomi (Aug 2021- Mar 2022)
--
--
+- Established data and reporting infrastructure utilizing SQL, enabling real-time insights into product, marketing funnels, and business KPIs.
+- Developed root cause reports to address customer conversion issues, resulting in a significant 40% increase in conversions.
+- Innovated risk management strategies by devising a trade matching algorithm, enhancing risk metrics computations and decision-making processes.
+
 Quantitative Analyst at Credit Suisse (Jan 2019- Aug 2021)
--
+- Led backtesting of the Bank’s IMM models, identifying critical weaknesses and contributing to model development and validation.
+- Utilized advanced statistical techniques to measure model performance, ensuring regulatory compliance and risk mitigation.
+
 
 Market Analyst Futures Trader (Jul 2017- Dec 2018)
--
+- Conducted comprehensive market research using a multifaceted approach to formulate effective trading strategies.
+- Leveraged a combination of fundamental analysis and technical indicators to generate innovative trading ideas.
+
   
 ## Projects
 
