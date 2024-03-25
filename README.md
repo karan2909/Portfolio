@@ -6,9 +6,15 @@ I have expertise in solving business problems through data driven insights using
 
 
 ## Experience
-- Data Scientist at Airtel (Apr 2022 - July 2023)
-- Lead Analyst at Xiaomi (Aug 2021- Mar 2022)
-- Quantitative Analyst at Credit Suisse (Aug 2021- Mar 2022)
+Data Scientist at Airtel (Apr 2022 - July 2023)
+-
+-
+Lead Analyst at Xiaomi (Aug 2021- Mar 2022)
+-
+-
+Quantitative Analyst at Credit Suisse (Aug 2021- Mar 2022)
+-
+-
   
 ## Projects
 
