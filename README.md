@@ -67,8 +67,32 @@ Market Analyst Futures Trader (Jul 2017- Dec 2018)
 ![Image Description](/images/A_B Testing.png)
 ![Image Description](/images/Sample_size.png)
 
-### [Project 5: Customer Acquistion](https://github.com/karan2909/Customer_Acquistion)
+### [Project 5: Customer Segmentation and Retention](https://github.com/karan2909/ECom--Retention-and-Segmentation)
+- To find segmentation of customers for their online store for promotions/discount.
+
+## 1) Feature Engineering
+- RFM Features: Recency, Tenure, Frequency, Monetary.
+- Product Diversity: Number of Products Purchased.
+- Behavioral Features: Average Days Between Purchases, Favorite Day for Shopping.
+- Geographical Features: Is from UK or not.
+- Cancellation Features: Canceled Flag, Number of canceled orders.
+
+## 2) Retention
+![Retention Plot](ECom--Retention-and-Segmentation/Retention_Plot.png)
+
+## 3) Customer Segmentation - Heuristic and Kmeans
+Customers are segmented into different clusters based on:
+- Recency: How recently they did the transaction.
+- Frequency: How often the customers are doing transactions.
+- Monetary: Average Order Value per customer basket.
+
+![Segmentation](ECom--Retention-and-Segmentation/Segmentation.png)
+
+![RFM Segmentation](ECom--Retention-and-Segmentation/RFM_segmentation.png)
+
+
+### [Project 6: Customer Acquistion](https://github.com/karan2909/Customer_Acquistion)
 - Classification project to determine which customers should be targeted.
 
-### [Project 6: Time Series](https://github.com/karan2909/Time_Series)
+### [Project 7: Time Series](https://github.com/karan2909/Time_Series)
 - Failure Prediction using Time Series
