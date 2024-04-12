@@ -78,7 +78,7 @@ Market Analyst Futures Trader (Jul 2017- Dec 2018)
 - Cancellation Features: Canceled Flag, Number of canceled orders.
 
 ## 2) Retention
-![Retention Plot](ECom--Retention-and-Segmentation/Retention_Plot.png)
+![Retention Plot](images/Retention_Plot.png)
 
 ## 3) Customer Segmentation - Heuristic and Kmeans
 Customers are segmented into different clusters based on:
@@ -86,9 +86,9 @@ Customers are segmented into different clusters based on:
 - Frequency: How often the customers are doing transactions.
 - Monetary: Average Order Value per customer basket.
 
-![Segmentation](ECom--Retention-and-Segmentation/Segmentation.png)
+![Segmentation](images/Segmentation.png)
 
-![RFM Segmentation](ECom--Retention-and-Segmentation/RFM_segmentation.png)
+![RFM Segmentation](images/RFM_segmentation.png)
 
 
 ### [Project 6: Customer Acquistion](https://github.com/karan2909/Customer_Acquistion)
