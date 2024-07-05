@@ -26,9 +26,9 @@ I am a passionate data scientist with experience in machine learning, data analy
 - Led backtesting of the Bank’s IMM models, identifying critical weaknesses and contributing to model development and validation.
 - Utilized advanced statistical techniques to measure model performance, ensuring regulatory compliance and risk mitigation.
 
-// ### Market Analyst Futures Trader (Jul 2017- Dec 2018)
-// - Conducted comprehensive market research using a multifaceted approach to formulate effective trading strategies.
-// - Leveraged a combination of fundamental analysis and technical indicators to generate innovative trading ideas.
+### Market Analyst Futures Trader (Jul 2017- Dec 2018)
+- Conducted comprehensive market research using a multifaceted approach to formulate effective trading strategies.
+- Leveraged a combination of fundamental analysis and technical indicators to generate innovative trading ideas.
 
 ## Projects
 
