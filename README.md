@@ -22,7 +22,7 @@ I am a passionate data scientist with experience in machine learning, data analy
 - Developed root cause reports to address customer conversion issues, resulting in a significant 40% increase in conversions.
 - Innovated risk management strategies by devising a trade matching algorithm, enhancing risk metrics computations and decision-making processes.
 
-### Quantitative Analyst at Credit Suisse (Jan 2019- Aug 2021)
+### Quantitative Analyst at Credit Suisse (Jun 2019- Aug 2021)
 - Led backtesting of the Bank’s IMM models, identifying critical weaknesses and contributing to model development and validation.
 - Utilized advanced statistical techniques to measure model performance, ensuring regulatory compliance and risk mitigation.
 
