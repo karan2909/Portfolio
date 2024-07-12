@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1QD4M47BP4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1QD4M47BP4');
+</script>
+
 # Data Science Portfolio
 
 ## About Me
@@ -92,3 +102,7 @@ Customers are segmented into different clusters based on:
 
 ### [Project 7: Time Series](https://github.com/karan2909/Time_Series)
 - Failure Prediction using Time Series
+
+
+## Contact
+[naharkaran94@gmail.com]
